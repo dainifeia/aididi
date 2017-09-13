@@ -1,3 +1,4 @@
+#我这个项目是从别人的github stat的，自己用来测试玩一下，大家不喜勿喷，谢谢
 #基于SSM-EasyUI的权限管理系统
 
 后台采用Spring+SpringMvc+MyBatis，前端使用Easyui，数据库采用MySql实现的一套权限管理系统。
